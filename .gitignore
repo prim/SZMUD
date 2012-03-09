@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+
+data_*/
+
+backup.py
+loadall.py
+Test/
+

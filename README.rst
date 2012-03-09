@@ -3,7 +3,7 @@ SZMUD
 
 简介
 ----
-一个python MUD游戏, 设计参考<MUD Game Programming>中的BetterMUD。
+一个python MUD游戏, 设计参考自<MUD Game Programming>中的BetterMUD。
 
 Entity: 实体
 ------------
@@ -15,7 +15,7 @@ Entity: 实体
 - Room
 - Portal
 - Region
-- Template
+- Template(用于生成Character或Item)
 
 游戏基础
 --------
